@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there, 👋
 
+I'm Benji. I'm currently learning to be a developer, and meanwhile the music is on repeat...
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7yRMiLVxG1g6wpSUIwjUVz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <!--
 **bendvg/bendvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
